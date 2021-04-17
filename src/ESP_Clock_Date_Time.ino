@@ -1,3 +1,9 @@
+/**********************************************************
+*
+*          ESP Clock using API and ESP8266
+*             Author : Kapil H. Sonone
+***********************************************************/
+
 #include <ESP8266WiFi.h>
 
 //needed for library
